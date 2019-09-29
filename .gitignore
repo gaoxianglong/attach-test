@@ -1,0 +1,8 @@
+
+.idea
+*.iml
+attach-api/target
+attach-module/target
+attach-spy/target
+attach-test-agent/target
+attach-test-core/target
